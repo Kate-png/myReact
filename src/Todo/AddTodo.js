@@ -39,5 +39,4 @@ AddTodo.prototype = {
     onCreate: PropTypes.func.isRequired
 }
 
-
 export default AddTodo
